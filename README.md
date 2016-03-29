@@ -1,4 +1,4 @@
-# docker-elasticsearch
+# ElasticSearch
 
 [![](https://badge.imagelayers.io/zanox/elasticsearch:latest.svg)](https://imagelayers.io/?images=zanox/elasticsearch:latest 'Zanox ElasticSearch Image Layers')
 
